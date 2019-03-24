@@ -7,3 +7,10 @@ console.log("Hello feature");
 //main code
 console.log("hello main");
 
+var i = 1;
+var z = 0;
+
+var p = i / z; //lets bug it...
+
+console.log("that should not print out");
+
