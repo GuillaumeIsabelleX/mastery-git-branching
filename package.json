@@ -1,0 +1,23 @@
+{
+  "name": "mastery-git-branching",
+  "version": "1.0.0",
+  "description": "Mastery Git Branching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuillaumeIsabelleX/mastery-git-branching.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GuillaumeIsabelleX/mastery-git-branching/issues"
+  },
+  "homepage": "https://github.com/GuillaumeIsabelleX/mastery-git-branching#readme",
+  "dependencies": {
+    "tlid": "^1.0.9"
+  }
+}
