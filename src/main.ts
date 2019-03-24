@@ -12,7 +12,7 @@ var z = 0;
 
 var p = i / z; //lets bug it...
 
-throw new Error('It is rare, but this bug is VOLONTARY to bug the Continous integration');
+//throw new Error('It is rare, but this bug is VOLONTARY to bug the Continous integration');
 
-console.log("that should not print out");
+console.log("Bug is fixed");
 
