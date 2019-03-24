@@ -11,6 +11,7 @@ var i = 1;
 var z = 0;
 
 var p = i / z; //lets bug it...
+throw;
 
 console.log("that should not print out");
 
