@@ -6,9 +6,6 @@ Mastery Git Branching
 ```bash
 #!/bin/bash
 
-#@urir https://stackoverflow.com/questions/449541/how-to-selectively-merge-or-pick-changes-from-another-branch-in-git
-
-
 # git-interactive-merge
 from=$1
 to=$2
@@ -21,3 +18,4 @@ git pull . ${from}_tmp
 git branch -d ${from}_tmp
 
 ```
+@urir https://stackoverflow.com/questions/449541/how-to-selectively-merge-or-pick-changes-from-another-branch-in-git
