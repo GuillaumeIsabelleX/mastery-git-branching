@@ -4,7 +4,8 @@
   "description": "Mastery Git Branching",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build":"echo \"Let say build is completed\" && exit 0"
   },
   "repository": {
     "type": "git",
